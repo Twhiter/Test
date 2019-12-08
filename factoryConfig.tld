@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<config>
+        <BrushName>com.nchu.wiper2.brush.Brush</BrushName>
+        <DialName>com.nchu.wiper2.dial.Dial</DialName>
+        <LeverName>com.nchu.wiper2.lever.Lever</LeverName>
+
+</config>
